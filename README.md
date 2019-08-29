@@ -48,7 +48,7 @@ No Installation is required.
 ## Team
 **Michael Dennison** - [LinkedIn](https://linkedin.com/in/michaeltdennison) - [GitHub](https://github.com/michaeltdennison)    
 
-**Project Link** - [https://github.com/miketdennison/findtography](https://github.com/miketdennison/dice)  
+**Project Link** - [https://github.com/miketdennison/dice](https://github.com/miketdennison/dice)  
 
 **Project Website** - [https://miketdennison.github.io/dice/](https://miketdennison.github.io/dice/)
 
