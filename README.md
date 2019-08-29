@@ -54,4 +54,4 @@ No Installation is required.
 
 
 <!-- IMAGES -->
-[animated-win]: dice-win.png
+[animated-win]: dice-win.gif
